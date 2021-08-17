@@ -108,8 +108,8 @@ http://tv.banglatv.xyz:8081/live/progoti/chunks.m3u8
 https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/alponatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjwGg2XyMGxFITXm_54WBnNF_zBYcYw9n1E_PlCxoo=s900-c-k-c0x00ffffff-no-rj" group-title="Bdix",KTV Bangla
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8?token=soheliptv01826655778
-
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel 23 IPTV [BD]" tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="Bangladesh",Channel 23 IPTV [BD]
+http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8
 
 
 
@@ -495,7 +495,8 @@ http://tv.pmcon.net/hls/stream7.m3u8
 
 
 
-                  Kids
+                  
+                  
 
 
 
@@ -593,7 +594,9 @@ https://ersupport.com/plugins/QuickWebProxy/miniProxy.php/http://70.39.83.58:827
 
 
 
-                                                      Infotainment
+
+
+
 
 
 
@@ -745,7 +748,7 @@ http://mygoodstream.pw/proxy.php/http://185.180.221.194:8278/streams/d/Bbcearth/
 
 
 
-                              Sports
+
 
 
 
@@ -938,7 +941,7 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_
 
 
 
-                     Music
+
 
 
 
@@ -1017,7 +1020,8 @@ http://cloudcdn.tk:80/tuUO22w8572/442wnM854/7320
 
 
 
-Olympic
+
+
 
 
 #EXTINF:-1 group-title="Olympic" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png",Sony Ten 1 HD
