@@ -126,9 +126,9 @@ http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8
 http://d2k667g61yse6h.cloudfront.net/101.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/474x/a8/de/fc/a8defc23b6e6f16ade5eed08a8dc8eed.jpg" group-title="BDIX Server 1",Sangeet Bangla [1]
 http://103.205.133.19/hls/sangeetbangla.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla Cinema HD" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTx0v27njjqXTM-p3Sw3YNyH59Ub2GiwWdlplw-UQ=s900-c-k-c0x00ffffff-no-rj" group-title="Bangla",Zee Bangla
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla Cinema HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Zee_Bangla_Cinema_Logo.jpg" group-title="Bangla",Zee Bangla Cinema
 http://103.81.104.118/hls/stream25.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla Cinema HD" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTx0v27njjqXTM-p3Sw3YNyH59Ub2GiwWdlplw-UQ=s900-c-k-c0x00ffffff-no-rj" group-title="Bangla",Zee Bangla
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTx0v27njjqXTM-p3Sw3YNyH59Ub2GiwWdlplw-UQ=s900-c-k-c0x00ffffff-no-rj" group-title="Bangla",Zee Bangla
 http://103.81.104.118/hls/stream30.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://scontent.fdac5-1.fna.fbcdn.net/v/t1.6435-9/148620605_259371929044544_592889733016147077_n.jpg?_nc_cat=111&ccb=1-4&_nc_sid=973b4a&_nc_ohc=FTFFHr1mZgYAX_FdiFI&_nc_ht=scontent.fdac5-1.fna&oh=da7361db567901006acd076feeb2eba4&oe=61360F26" group-title="INDIAN BANGLA",Durdorson Bangla
 https://d30uyb7igts9op.cloudfront.net/DD_BANGLA.m3u8
@@ -183,7 +183,7 @@ http://stream.dhakaflix.com:8081/hls/ruposhibangla.m3u8/chunks.m3u8?nimblesessio
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Zee_Bangla_Cinema_Logo.jpg" group-title="INDIAN BANGLA",Zee_Bangla_Cinema 2
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://pbs.twimg.com/media/Dyefs82W0AEqZ7S.jpg" group-title="INDIAN BANGLA",Sun Bangla
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://pbs.twimg.com/media/Dyefs82W0AEqZ7S.jpg" group-title="INDIAN BANGLA",Bangla
 http://103.109.56.116/live/skyfeed1009/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://pbs.twimg.com/media/Dyefs82W0AEqZ7S.jpg" group-title="INDIAN BANGLA",Sun Bangla HD 2
 
