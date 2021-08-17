@@ -141,8 +141,8 @@ http://103.81.104.118/hls/stream19.m3u8
 http://103.81.104.118/hls/stream13.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bdix",Zee Bangla
 http://d2k667g61yse6h.cloudfront.net/101.m3u8
-#EXTINF:0 tvg-logo="https://i.pinimg.com/474x/a8/de/fc/a8defc23b6e6f16ade5eed08a8dc8eed.jpg" group-title="BDIX Server 1",Sangeet Bangla [1]
-http://103.205.133.19/hls/sangeetbangla.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="Bangla", Sangeet Bangla
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee Bangla Cinema HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Zee_Bangla_Cinema_Logo.jpg" group-title="Bangla",Zee Bangla Cinema
 http://103.81.104.118/hls/stream25.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee Bangla" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTx0v27njjqXTM-p3Sw3YNyH59Ub2GiwWdlplw-UQ=s900-c-k-c0x00ffffff-no-rj" group-title="Bangla",Zee Bangla
