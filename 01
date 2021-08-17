@@ -94,6 +94,8 @@ http://tv.banglatv.xyz:8081/live/progoti/chunks.m3u8
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel 23 IPTV [BD]" tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="Bangladesh",Channel 23 IPTV [BD]
 http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/gaanbangla(1).png" group-title="Bdix",Gaan Bangla
+http://10.16.100.200:8082/hls/gan_bangla_local.m3u8
 
 
 #EXTINF:0 tvg-language="AXN" tvg-logo="http://103.81.104.118/img/axn.jpg" group-title="Bdix",AXN
@@ -103,24 +105,50 @@ http://103.81.104.118/hls/stream2.m3u8
 http://103.81.104.118/hls/stream3.m3u8
 #EXTINF:0 tvg-language="color cineplex" tvg-logo="http://103.81.104.118/img/colorscineplex.jpg" group-title="Bdix",Color cineplex
 http://103.81.104.118/hls/stream29.m3u8
-#EXTINF:0 tvg-language="Zee cinena HD" tvg-logo="https://i.ytimg.com/vi/EeLaVotVSME/mqdefault.jpg" group-title="Bdix",Zee Cinema HD
+#EXTINF:0 tvg-language="Zee cinena HD" tvg-logo="http://103.81.104.118/img/zeecinemahd.jpg" group-title="Bdix",Zee Cinema HD
 http://103.81.104.118/hls/stream25.m3u8
+#EXTINF:0 tvg-language="UTV Action" tvg-logo="http://103.81.104.118/img/utvaction.jpg" group-title="Bdix",UTV Action
+http://103.81.104.118/hls/stream7.m3u8
+#EXTINF:0 tvg-language="& Picturen" tvg-logo="http://103.81.104.118/img/andpictures-hd.jpg" group-title="Bdix",& Picture
+http://103.81.104.118/hls/stream14.m3u8
+#EXTINF:0 tvg-language="B4U Movie" tvg-logo="http://10.16.100.244/files/b4umovies.png" group-title="Bdix",B4U Movie
+http://10.16.100.208:8082/hindi/B4Umovies_1stop_in.m3u8
+#EXTINF:0 tvg-language="Wow cinema" tvg-logo="http://10.16.100.244/files/wowcinema.png" group-title="Bdix",Wow Cinema
+http://10.16.100.208:8082/hindi/wowmovies_1stop_in.m3u8
+#EXTINF:0 tvg-language="Sony Entertenment" tvg-logo="http://10.16.100.244/files/sony.png" group-title="Bdix",Sony Entertentment
+http://10.16.100.208:8082/hindi/sonytv_1stop_in.m3u8
 #EXTINF:0 tvg-language="Star gold HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Star_Gold_HD_2020.svg/revision/latest/scale-to-width-down/250?cb=20200210144000" group-title="Bdix",Star gold
 http://103.81.104.118/hls/stream19.m3u8
 
 
+#EXTINF:0 tvg-language="9xm" tvg-logo="http://10.16.100.244/files/9xm.png" group-title="Bdix",9xm
+http://10.16.100.200:8082/hls/nine_xm_local.m3u8
+#EXTINF:0 tvg-language="B4U music" tvg-logo="http://10.16.100.244/files/9xm.png" group-title="Bdix",B4U Music
+http://10.16.100.200:8082/hls/bforu_music_local.m3u8
+#EXTINF:0 tvg-language="NAT GEO Bangla" tvg-logo="http://103.81.104.118/img/Nat_Geo_HD.png" group-title="Bdix",NET GEO BANGLA
+http://103.81.104.118/hls/stream13.m3u8
+#EXTINF:0 tvg-language="Discovery Bangla" tvg-logo="http://103.81.104.118/img/dis.png" group-title="Bdix",Discovery BANGLA
+http://103.81.104.118/hls/stream9.m3u8
+#EXTINF:0 tvg-language="Animal Planet" tvg-logo="http://103.81.104.118/img/animalplanent.jpg" group-title="Bdix",Animel Planet
+http://103.81.104.118/hls/stream6.m3u8
+#EXTINF:0 tvg-language="Star Sports" tvg-logo="http://103.81.104.118/img/Star_Sports_Select_1_HD.jpg" group-title="Bdix",Star Sports
+http://103.81.104.118/hls/stream15.m3u8
+#EXTINF:0 tvg-language="Sony 10" tvg-logo="http://103.81.104.118/img/sony_ten_2.jpg" group-title="Bdix",Sony Ten
+http://103.81.104.118/hls/stream39.m3u8
+#EXTINF:0 tvg-language="Sony 10-1" tvg-logo="http://103.81.104.118/img/sony_ten_1.jpg" group-title="Bdix",Sony Ten-1
+http://103.81.104.118/hls/stream40.m3u8
+#EXTINF:0 tvg-language="T Sports" tvg-logo="http://103.81.104.118/img/tsports.jpg" group-title="Bdix",T-Sports
+http://103.81.104.118/hls/t-sports.m3u8
 
 
 #EXTINF:0 tvg-language="Jalsa Movies" tvg-logo="http://103.81.104.118/img/jalsha_movies.jpg" group-title="Bdix",Jalsa Movies
 http://103.81.104.118/hls/stream27.m3u8
-#EXTINF:0 tvg-language="NAT GEO Bangla" tvg-logo="http://103.81.104.118/img/Nat_Geo_HD.png" group-title="Bdix",NET GEO BANGLA
-http://103.81.104.118/hls/stream13.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bdix",Zee Bangla
 http://10.16.100.204:8082/hls/z_bangla_local.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee Bangla" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTx0v27njjqXTM-p3Sw3YNyH59Ub2GiwWdlplw-UQ=s900-c-k-c0x00ffffff-no-rj" group-title="Bangla",Zee Bangla
 http://103.81.104.118/hls/stream30.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="Bangla", Sangeet Bangla
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
+http://10.16.100.200:8082/hls/songet_bangla_local.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee Bangla Cinema HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Zee_Bangla_Cinema_Logo.jpg" group-title="Bangla",Zee Bangla Cinema
 http://103.81.104.118/hls/stream16.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://scontent.fdac5-1.fna.fbcdn.net/v/t1.6435-9/148620605_259371929044544_592889733016147077_n.jpg?_nc_cat=111&ccb=1-4&_nc_sid=973b4a&_nc_ohc=FTFFHr1mZgYAX_FdiFI&_nc_ht=scontent.fdac5-1.fna&oh=da7361db567901006acd076feeb2eba4&oe=61360F26" group-title="INDIAN BANGLA",Durdorson Bangla
