@@ -71,9 +71,12 @@ http://103.205.133.19:80/hls/deshtv.m3u8
 https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imageca9d0bcf608394fd.png" group-title="Bdix",2.Asian TV
 http://103.205.133.19/hls/asiantv.m3u86
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peace TV" tvg-logo="http://www.peacetv.tv/templates/images/english-logo.png" group-title="ISLAM",Peace TV
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:-1 tvg-logo="http://www.peacetv.tv/templates/images/english-logo.png"group-title="BDIX Server 1",Peace TV Bangla [1]
 http://103.205.133.19/hls/peacetv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Dawah" tvg-logo="https://i.imgur.com/3KDVQiO.jpg" group-title="RELGIOUS",Al Dawah
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dawah-eu.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/vPl5dF8.png" group-title="Bdix",NTV
 http://103.205.133.19/hls/ntv.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="BDIX Server 1",Ekushey TV [1]
@@ -110,7 +113,10 @@ https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgd
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel 23 IPTV [BD]" tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="Bangladesh",Channel 23 IPTV [BD]
 http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekhon Kolkata [IN]" tvg-logo="https://dl.dropbox.com/s/bk055soezukgi45/71120680.png" group-title="BANGLA ENT.",Ekhon Kolkata [IN]
+http://cdn.live5.in:1935/live/sun6/chunklist_w1143835070.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TBN 24 USA IPTV [BD]" tvg-logo="https://i.imgur.com/CCZdRgb.png" group-title="BANGLA ENT.",TBN 24 USA IPTV [BD]
+http://fingerme.dg21bd.com/TBN24/index.m3u8?@amarnettv.live
 
 
 
