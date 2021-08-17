@@ -120,6 +120,13 @@ http://fingerme.dg21bd.com/TBN24/index.m3u8?@amarnettv.live
 
 
 
+#EXTINF:0 tvg-language="AXN" tvg-logo="http://103.81.104.118/img/axn.jpg" group-title="Bdix",AXN
+http://103.81.104.118/hls/stream2.m3u8
+
+#EXTINF:0 tvg-language="Star Movie" tvg-logo="http://103.81.104.118/img/starmovies.jpg" group-title="Bdix",Star Movie
+http://103.81.104.118/hls/stream3.m3u8
+#EXTINF:0 tvg-language="color cineplex" tvg-logo="http://103.81.104.118/img/colorscineplex.jpg" group-title="Bdix",Color cineplex
+http://103.81.104.118/hls/stream29.m3u8
 
 
 
@@ -127,7 +134,8 @@ http://fingerme.dg21bd.com/TBN24/index.m3u8?@amarnettv.live
 
 
 
-
+#EXTINF:0 tvg-language="NAT GEO Bangla" tvg-logo="http://103.81.104.118/img/Nat_Geo_HD.png" group-title="Bdix",NET GEO BANGLA
+http://103.81.104.118/hls/stream13.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bdix",Zee Bangla
 http://d2k667g61yse6h.cloudfront.net/101.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/474x/a8/de/fc/a8defc23b6e6f16ade5eed08a8dc8eed.jpg" group-title="BDIX Server 1",Sangeet Bangla [1]
