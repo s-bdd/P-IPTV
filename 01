@@ -125,8 +125,13 @@ http://10.16.100.208:8082/hindi/wowmovies_1stop_in.m3u8
 http://10.16.100.208:8082/hindi/sonytv_1stop_in.m3u8
 #EXTINF:0 tvg-language="Star gold HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Star_Gold_HD_2020.svg/revision/latest/scale-to-width-down/250?cb=20200210144000" group-title="Bdix",Star gold
 http://103.81.104.118/hls/stream19.m3u8
+#EXTINF:0 tvg-language="Manoronjon Movie" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2172.ManoranjanMovies.in/en/1x1/208x208/test_pic1535537678437.jpg" group-title="Bdix",Manoronjon Movie
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
+#EXTINF:0 tvg-language="Love nature" tvg-logo="https://cdn.pngsumo.com/love-nature-digital-marketing-web-bureau-nature-love-png-535_320.png" group-title="Bdix",Love Nature
+https://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
-
+#EXTINF:0 tvg-language="Bflix" tvg-logo="https://1.bp.blogspot.com/-ffp4AOX5oDE/YGcW9wA_ZXI/AAAAAAAAyMM/3j2Az2zqeRc4NivnINo5KAZbXE91F4KfQCLcBGAsYHQ/s237/Bflix_Movies-logo-old.png" group-title="Bdix",Bflix
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:0 tvg-language="9xm" tvg-logo="http://10.16.100.244/files/9xm.png" group-title="Bdix",9xm
 http://10.16.100.200:8082/hls/nine_xm_local.m3u8
 #EXTINF:0 tvg-language="B4U music" tvg-logo="http://10.16.100.244/files/9xm.png" group-title="Bdix",B4U Music
