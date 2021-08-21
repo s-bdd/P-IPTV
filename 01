@@ -65,7 +65,7 @@ http://iptvbd.jagobd.com:1931/boishakhi/bijoy00.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/boishakhi/banglatvhd.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boishakhi tv plus" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/12/boishakhitvplus.jpeg " group-title="Bangla",Boishakhi tv plus
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhiplus.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Btv tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Bangladesh_Television_Logo.png" group-title="Bangla",Btv 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Bangladesh_Television_Logo.png" group-title="Bangla",BTV
 http://iptvbd.jagobd.com:1931/boishakhi/btvnational-ctg.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="71bangla hd" tvg-logo="https://scontent.fdac5-2.fna.fbcdn.net/v/t1.18169-9/18221831_426746604366743_322415597336112723_n.jpg?_nc_cat=102&ccb=1-4&_nc_sid=730e14&_nc_ohc=XbWwSg8Zio8AX9C-aiO&_nc_ht=scontent.fdac5-2.fna&oh=7f9e4daa08de80b88d71c47d7e1349a6&oe=61359A62 " group-title="Bangla",71bangla hd
 http://iptvbd.jagobd.com:1931/boishakhi/71bangla.stream/chunks.m3u8
@@ -94,7 +94,7 @@ http://10.16.100.205/hls/21etv.m3u8
 https://m-c09-j2apps.s.llnwi.net/hls/8027.RongeenTV.in_480p/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/VoiceTV.png" group-title="Bdix",Progati TV
+#EXTINF:-1 tvg-logo="https://pragatitv.com/wp-content/uploads/2021/07/PragatiTV_logo_v5.1.png" group-title="Bdix",Progati TV
 http://tv.banglatv.xyz:8081/live/progoti/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjwGg2XyMGxFITXm_54WBnNF_zBYcYw9n1E_PlCxoo=s900-c-k-c0x00ffffff-no-rj" group-title="Bdix",KTV Bangla
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8?token=soheliptv01826655778
