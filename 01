@@ -91,8 +91,6 @@ http://10.16.100.205/hls/21etv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="Bdix",RongeenTV
 https://m-c09-j2apps.s.llnwi.net/hls/8027.RongeenTV.in_480p/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://pragatitv.com/wp-content/uploads/2021/07/PragatiTV_logo_v5.1.png" group-title="Bdix",Progati TV
 http://tv.banglatv.xyz:8081/live/progoti/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjwGg2XyMGxFITXm_54WBnNF_zBYcYw9n1E_PlCxoo=s900-c-k-c0x00ffffff-no-rj" group-title="Bdix",KTV Bangla
@@ -103,8 +101,6 @@ http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8
 http://10.16.100.200:8082/hls/gan_bangla_local.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bdix",Channel T1
 http://irbtv.net/channelt1/1080/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bdix",HTV
-http://enaniptv.com/Htv/1080/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bdix",Flas Tv
 http://irbtv.net/flashtv1/1080/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bdix",TV7 INdia
@@ -117,6 +113,18 @@ http://45.125.221.114:1935/live/megnatv/chunklist_w1157722444.m3u8
 http://enaniptv.com/aliftv//1080/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/mycinemabd.jpg" group-title="Bdix",My tv Cinema
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
+
+
+
+
+
+
+#EXTINF:0 tvg-language="" tvg-logo="http://10.16.100.244/files/sonyaath(1).png" group-title="Bdix",Sony Aath
+http://10.16.100.204:8082/hls/sony_aat_local.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="Bangla", Sangeet Bangla
+http://10.16.100.200:8082/hls/songet_bangla_local.m3u8
+
+
 
 
 
@@ -195,8 +203,7 @@ http://103.81.104.118/hls/stream27.m3u8
 http://10.16.100.204:8082/hls/z_bangla_local.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee Bangla" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTx0v27njjqXTM-p3Sw3YNyH59Ub2GiwWdlplw-UQ=s900-c-k-c0x00ffffff-no-rj" group-title="Bangla",Zee Bangla
 http://103.81.104.118/hls/stream30.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="Bangla", Sangeet Bangla
-http://10.16.100.200:8082/hls/songet_bangla_local.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Zee Bangla Cinema HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Zee_Bangla_Cinema_Logo.jpg" group-title="Bangla",Zee Bangla Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee Bangla Cinema HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Zee_Bangla_Cinema_Logo.jpg" group-title="Bangla",Zee Bangla Cinema
