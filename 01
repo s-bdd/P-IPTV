@@ -135,7 +135,8 @@ https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla", Colors Bangla HD
 http://103.205.133.48/hls/colorsbangla.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Discovery_HD_logo_2009.png/400px-Discovery_HD_logo_2009.png" group-title="Bangla", Discovery HD
+http://89.187.182.181:9090/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8
 
 
 
