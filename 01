@@ -2,7 +2,7 @@
 http://103.205.133.48/hls/deeptotv.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gtv" tvg-logo="http://ihub.live/uploads/tv_image/sm/gazi-tv.jpg" group-title="Bangla",Gazi tv
-http://10.16.100.207:8082/sports/gazi_tv_bkp_dish.m3u8
+http://137.59.155.77:8088/hls/01gazitv.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://10.16.100.244/files/nagorik.png" group-title="Bangla",Nagorik
@@ -113,13 +113,17 @@ http://45.125.221.114:1935/live/megnatv/chunklist_w1157722444.m3u8
 http://enaniptv.com/aliftv//1080/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/mycinemabd.jpg" group-title="Bdix",My tv Cinema
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
-
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/NIfMrhI.png” group-title=”AMRBD LIVE”,Duronto
+http://tv.aliflailabd.com:8989/duronto-tv/index.m3u8
+#EXTINF:-1 tvg-logo=”https://lh3.googleusercontent.com/proxy/UGUxVEFCst5UmyyUXFKQz0J0HKL_TDazdYAwoe56nHF2Vj71yi4t_kFUc8aMOuqCrY9d-Wz6CbUpyPI2tL5SqVM_dM9VSGdTApnfqw” group-title=”AMRBD LIVE”,Rtv Music
+http://tv.aliflailabd.com:8989/rtvmusic/index.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Bangla", Zee Bangla Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
-
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/NIfMrhI.png” group-title=”AMRBD LIVE”,Jalsha Movies
+http://tv.aliflailabd.com:8989/jalsha-movies/index.m3u8
 
 #EXTINF:0 tvg-language="" tvg-logo="http://10.16.100.244/files/sonyaath(1).png" group-title="Bdix",Sony Aath
 http://10.16.100.204:8082/hls/sony_aat_local.m3u8
@@ -138,7 +142,51 @@ http://103.205.133.48/hls/colorsbangla.m3u8
 #EXTINF:-1,Ruposhi Bangla
 http://103.205.133.48/hls/ruposhibangla.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Discovery_HD_logo_2009.png/400px-Discovery_HD_logo_2009.png" group-title="Bangla", Discovery HD
-http://89.187.182.181:9090/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8
+http://tv.aliflailabd.com:8989/discovery/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/NIfMrhI.png” group-title=”AMRBD LIVE”,HBO
+http://tv.aliflailabd.com:8989/hbo/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/NIfMrhI.png” group-title=”AMRBD LIVE”,AXN
+http://tv.aliflailabd.com:8989/axn-hd/index.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/NIfMrhI.png” group-title=”AMRBD LIVE”,Star Movies
+http://tv.aliflailabd.com:8989/star-movies-hd/index.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/NIfMrhI.png” group-title=”AMRBD LIVE”,Sony PIX
+http://tv.aliflailabd.com:8989/sony-pix-hd/index.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/NIfMrhI.png” group-title=”AMRBD LIVE”,BBC
+http://tv.aliflailabd.com:8989/bbc-world/index.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/NIfMrhI.png” group-title=”AMRBD LIVE”,Movies Now
+http://tv.aliflailabd.com:8989/mn-hd/index.m3u8
+
+
+http://tv.aliflailabd.com:8989/natgeo-wild/index.m3u8
+http://tv.aliflailabd.com:8989/tlc-hd/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/NIfMrhI.png” group-title=”AMRBD LIVE”,Cartoon Network
+http://tv.aliflailabd.com:8989/cartoon-network/index.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/NIfMrhI.png” group-title=”AMRBD LIVE”,Nick
+http://tv.aliflailabd.com:8989/nick/index.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/NIfMrhI.png” group-title=”AMRBD LIVE”,Sony Six
+http://tv.aliflailabd.com:8989/sony-six-hd/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/NIfMrhI.png” group-title=”AMRBD LIVE”,TEN 1
+http://tv.aliflailabd.com:8989/sony-ten1-hd/index.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/NIfMrhI.png” group-title=”AMRBD LIVE”,TEN 2
+http://tv.aliflailabd.com:8989/sony-ten2/index.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/NIfMrhI.png” group-title=”AMRBD LIVE”,TEN 3
+http://tv.aliflailabd.com:8989/sony-ten3/index.m3u8
+
+
+
 
 
 
