@@ -2,7 +2,7 @@
 http://103.205.133.48/hls/deeptotv.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gtv" tvg-logo="http://ihub.live/uploads/tv_image/sm/gazi-tv.jpg" group-title="Bangla",Gazi tv
-http://137.59.155.77:8088/hls/01gazitv.m3u8
+http://tv.aliflailabd.com:8989/gazi-tv/index.m3u8?token=6bd48ba79947edadcda32ae27fc0f3f7140b6bf0-196e30129489dd6de7f4214ba1623590-1629974057-1629963257&remote=180.149.235.194
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://10.16.100.244/files/nagorik.png" group-title="Bangla",Nagorik
@@ -65,9 +65,7 @@ http://iptvbd.jagobd.com:1931/boishakhi/banglatvhd.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boishakhi tv plus" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/12/boishakhitvplus.jpeg " group-title="Bangla",Boishakhi tv plus
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhiplus.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Bangladesh_Television_Logo.png" group-title="Bangla",BTV
-http://iptvbd.jagobd.com:1931/boishakhi/btvnational-ctg.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="71bangla hd" tvg-logo="https://scontent.fdac5-2.fna.fbcdn.net/v/t1.18169-9/18221831_426746604366743_322415597336112723_n.jpg?_nc_cat=102&ccb=1-4&_nc_sid=730e14&_nc_ohc=XbWwSg8Zio8AX9C-aiO&_nc_ht=scontent.fdac5-2.fna&oh=7f9e4daa08de80b88d71c47d7e1349a6&oe=61359A62 " group-title="Bangla",71bangla hd
-http://iptvbd.jagobd.com:1931/boishakhi/71bangla.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/boishakhi/btvnational-ctg.stream/chunks.m3u8|/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="khushboo bangla" tvg-logo="http://10.16.100.244/files/khushboobangla.png " group-title="Bangla",khushboo bangla
 http://10.16.100.204:8082/hls/khushbo_TV_dish.m3u8
 
@@ -101,12 +99,6 @@ http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8
 http://10.16.100.200:8082/hls/gan_bangla_local.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bdix",Channel T1
 http://irbtv.net/channelt1/1080/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bdix",Flas Tv
-http://irbtv.net/flashtv1/1080/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bdix",TV7 INdia
-http://irbtv.net/flashtv/1080/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bdix",City Tv
-https://new.rongintv.com:30443/citytv/1080/chunks.m3u8?nimblesessionid=11529
 #EXTINF:-1 tvg-logo="" group-title="Bdix",Meghna TV
 http://45.125.221.114:1935/live/megnatv/chunklist_w1157722444.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bdix",Alif TV
@@ -160,8 +152,9 @@ http://tv.aliflailabd.com:8989/bbc-world/index.m3u8
 #EXTINF:-1 tvg-logo=”https://i.imgur.com/NIfMrhI.png” group-title=”AMRBD LIVE”,Movies Now
 http://tv.aliflailabd.com:8989/mn-hd/index.m3u8
 
-
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png” group-title=”AMRBD LIVE”,Nat Wild
 http://tv.aliflailabd.com:8989/natgeo-wild/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/TLC-Logo_2016.svg/1200px-TLC-Logo_2016.svg.png” group-title=”AMRBD LIVE”TLC
 http://tv.aliflailabd.com:8989/tlc-hd/index.m3u8
 
 #EXTINF:-1 tvg-logo=”https://i.imgur.com/NIfMrhI.png” group-title=”AMRBD LIVE”,Cartoon Network
@@ -400,6 +393,20 @@ http://cloudcdn.tk:80/tuUO22w8572/442wnM854/6217
 
 
 
+**** OLD Link ***************************************************************************************************************************
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gtv" tvg-logo="http://ihub.live/uploads/tv_image/sm/gazi-tv.jpg" group-title="Bangla",Gazi tv
+http://137.59.155.77:8088/hls/01gazitv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="71bangla hd" tvg-logo="https://scontent.fdac5-2.fna.fbcdn.net/v/t1.18169-9/18221831_426746604366743_322415597336112723_n.jpg?_nc_cat=102&ccb=1-4&_nc_sid=730e14&_nc_ohc=XbWwSg8Zio8AX9C-aiO&_nc_ht=scontent.fdac5-2.fna&oh=7f9e4daa08de80b88d71c47d7e1349a6&oe=61359A62 " group-title="Bangla",71bangla hd
+http://iptvbd.jagobd.com:1931/boishakhi/71bangla.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bdix",Flas Tv
+http://irbtv.net/flashtv1/1080/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bdix",TV7 INdia
+http://irbtv.net/flashtv/1080/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bdix",City Tv
+https://new.rongintv.com:30443/citytv/1080/chunks.m3u8?nimblesessionid=11529
 
 
 
