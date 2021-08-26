@@ -114,7 +114,7 @@ http://tv.aliflailabd.com:8989/rtvmusic/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Bangla", Zee Bangla Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/a/ac/Jalsha_movies.png” group-title=”AMRBD LIVE”,Jalsha Movies
+#EXTINF:-1 tvg-logo=”https://ibb.co/cDPWxqK” group-title=”AMRBD LIVE”,Jalsha Movies
 http://tv.aliflailabd.com:8989/jalsha-movies/index.m3u8
 
 #EXTINF:0 tvg-language="" tvg-logo="http://10.16.100.244/files/sonyaath(1).png" group-title="Bdix",Sony Aath
