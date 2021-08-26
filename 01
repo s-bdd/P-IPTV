@@ -107,14 +107,14 @@ http://enaniptv.com/aliftv//1080/index.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo=”https://i.imgur.com/NIfMrhI.png” group-title=”AMRBD LIVE”,Duronto
 http://tv.aliflailabd.com:8989/duronto-tv/index.m3u8
-#EXTINF:-1 tvg-logo=”https://lh3.googleusercontent.com/proxy/UGUxVEFCst5UmyyUXFKQz0J0HKL_TDazdYAwoe56nHF2Vj71yi4t_kFUc8aMOuqCrY9d-Wz6CbUpyPI2tL5SqVM_dM9VSGdTApnfqw” group-title=”AMRBD LIVE”,Rtv Music
+#EXTINF:-1 tvg-logo=”https://www.jagobd.com/wp-content/uploads/2017/01/rtvmusic.jpg” group-title=”AMRBD LIVE”,Rtv Music
 http://tv.aliflailabd.com:8989/rtvmusic/index.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Bangla", Zee Bangla Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo=”https://i.imgur.com/NIfMrhI.png” group-title=”AMRBD LIVE”,Jalsha Movies
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/a/ac/Jalsha_movies.png” group-title=”AMRBD LIVE”,Jalsha Movies
 http://tv.aliflailabd.com:8989/jalsha-movies/index.m3u8
 
 #EXTINF:0 tvg-language="" tvg-logo="http://10.16.100.244/files/sonyaath(1).png" group-title="Bdix",Sony Aath
