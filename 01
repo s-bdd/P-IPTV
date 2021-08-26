@@ -6,7 +6,7 @@ http://tv.aliflailabd.com:8989/gazi-tv/index.m3u8?token=6bd48ba79947edadcda32ae2
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://10.16.100.244/files/nagorik.png" group-title="Bangla",Nagorik
-http://10.16.100.201:8082/bangla/naGorik_Tv_local.m3u8
+http://tv.aliflailabd.com:8989/gazi-tv/index.m3u8?token=4d2e9608ce9ab9edd59ff0162a2fe8c10206533a-d35cb7fc0bca544df5f08255c8287e8f-1629998563-1629987763&remote=180.149.235.194
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dbc News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png " group-title="Bangla",Dbc News
@@ -107,7 +107,7 @@ http://enaniptv.com/aliftv//1080/index.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo=”https://i.imgur.com/NIfMrhI.png” group-title=”AMRBD LIVE”,Duronto
 http://tv.aliflailabd.com:8989/duronto-tv/index.m3u8
-#EXTINF:-1 tvg-logo=”https://www.jagobd.com/wp-content/uploads/2017/01/rtvmusic.jpg” group-title=”AMRBD LIVE”,Rtv Music
+#EXTINF:-1 tvg-logo=”https://i.ibb.co/qFjDQKj/bd-rtv-music-7431.jpg” group-title=”AMRBD LIVE”,Rtv Music
 http://tv.aliflailabd.com:8989/rtvmusic/index.m3u8
 
 
@@ -182,9 +182,9 @@ http://tv.aliflailabd.com:8989/sony-ten1-hd/index.m3u8
 http://tv.aliflailabd.com:8989/sony-ten2/index.m3u8
 #EXTINF:-1 tvg-logo=”https://i.imgur.com/NIfMrhI.png” group-title=”AMRBD LIVE”,TEN 3
 http://tv.aliflailabd.com:8989/sony-ten3/index.m3u8
-#EXTINF:-1 tvg-logo=”https://logos-world.net/wp-content/uploads/2020/04/YouTube-Logo.png” group-title=”Youtube”,Youtube Live
+#EXTINF:-1 tvg-logo=”https://i.ibb.co/mbxfDct/You-Tube-Logo.png” group-title=”Youtube”,Youtube Live
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1629987576/ei/mE4nYeT4Db-Bg8UPw6OSsAk/ip/180.149.235.192/id/TYEX3x4oWPE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/gcr/bd/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMTRdVvQ78WafgmeW1pnUBEHq5T1PRV6dWguSJ2uX1BrAiEA_1ypBNdKCbc7B1fL2Fj3wOsj8XboTyHVIF3sffzx8aE%3D/file/index.m3u8
-#EXTINF:-1 tvg-logo=”https://logos-world.net/wp-content/uploads/2020/04/YouTube-Logo.png” group-title=”Youtube”,5 Minutes Craft
+#EXTINF:-1 tvg-logo=”https://i.ibb.co/WzZ2L1p/AKed-OLTNYDeix1-K4-Zgf-M1oel-ANVDbqu3-QZqr-Mg8-DTKGq-s900-c-k-c0x00ffffff-no-rj.jpg” group-title=”Youtube”,5 Minutes Craft
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1629988416/ei/4FEnYZ-NFPv44-EP5cmrkAc/ip/180.149.235.192/id/qTQ57R-TPeM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgAvolZ0qrQc7n1PM7--iw69MJu7YU5xBNzUBaam7selkCIHdK0G-rdidtj49O3tDfEjvdYXnxlQa_Z6PieAymsdmK/file/index.m3u8
 
 
@@ -400,6 +400,9 @@ http://cloudcdn.tk:80/tuUO22w8572/442wnM854/6217
 
 
 
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://10.16.100.244/files/nagorik.png" group-title="Bangla",Nagorik
+http://10.16.100.201:8082/bangla/naGorik_Tv_local.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gtv" tvg-logo="http://ihub.live/uploads/tv_image/sm/gazi-tv.jpg" group-title="Bangla",Gazi tv
 http://137.59.155.77:8088/hls/01gazitv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="71bangla hd" tvg-logo="https://scontent.fdac5-2.fna.fbcdn.net/v/t1.18169-9/18221831_426746604366743_322415597336112723_n.jpg?_nc_cat=102&ccb=1-4&_nc_sid=730e14&_nc_ohc=XbWwSg8Zio8AX9C-aiO&_nc_ht=scontent.fdac5-2.fna&oh=7f9e4daa08de80b88d71c47d7e1349a6&oe=61359A62 " group-title="Bangla",71bangla hd
