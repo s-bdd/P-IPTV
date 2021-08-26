@@ -184,7 +184,8 @@ http://tv.aliflailabd.com:8989/sony-ten2/index.m3u8
 http://tv.aliflailabd.com:8989/sony-ten3/index.m3u8
 #EXTINF:-1 tvg-logo=”https://logos-world.net/wp-content/uploads/2020/04/YouTube-Logo.png” group-title=”Youtube”,Youtube Live
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1629987576/ei/mE4nYeT4Db-Bg8UPw6OSsAk/ip/180.149.235.192/id/TYEX3x4oWPE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/gcr/bd/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMTRdVvQ78WafgmeW1pnUBEHq5T1PRV6dWguSJ2uX1BrAiEA_1ypBNdKCbc7B1fL2Fj3wOsj8XboTyHVIF3sffzx8aE%3D/file/index.m3u8
-
+#EXTINF:-1 tvg-logo=”https://logos-world.net/wp-content/uploads/2020/04/YouTube-Logo.png” group-title=”Youtube”,5 Minutes Craft
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1629988416/ei/4FEnYZ-NFPv44-EP5cmrkAc/ip/180.149.235.192/id/qTQ57R-TPeM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgAvolZ0qrQc7n1PM7--iw69MJu7YU5xBNzUBaam7selkCIHdK0G-rdidtj49O3tDfEjvdYXnxlQa_Z6PieAymsdmK/file/index.m3u8
 
 
 ______________________________LIST END_____________________________________________________________________
