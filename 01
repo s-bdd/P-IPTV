@@ -154,7 +154,7 @@ http://tv.aliflailabd.com:8989/mn-hd/index.m3u8
 
 #EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png” group-title=”AMRBD LIVE”,Nat Wild
 http://tv.aliflailabd.com:8989/natgeo-wild/index.m3u8
-#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/TLC-Logo_2016.svg/1200px-TLC-Logo_2016.svg.png” group-title=”AMRBD LIVE”TLC
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/TLC-Logo_2016.svg/1200px-TLC-Logo_2016.svg.png” group-title=”AMRBD LIVE”,TLC
 http://tv.aliflailabd.com:8989/tlc-hd/index.m3u8
 
 #EXTINF:-1 tvg-logo=”https://i.imgur.com/NIfMrhI.png” group-title=”AMRBD LIVE”,Cartoon Network
@@ -182,10 +182,12 @@ http://tv.aliflailabd.com:8989/sony-ten1-hd/index.m3u8
 http://tv.aliflailabd.com:8989/sony-ten2/index.m3u8
 #EXTINF:-1 tvg-logo=”https://i.imgur.com/NIfMrhI.png” group-title=”AMRBD LIVE”,TEN 3
 http://tv.aliflailabd.com:8989/sony-ten3/index.m3u8
+#EXTINF:-1 tvg-logo=”https://logos-world.net/wp-content/uploads/2020/04/YouTube-Logo.png” group-title=”Youtube”,Youtube Live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1629987576/ei/mE4nYeT4Db-Bg8UPw6OSsAk/ip/180.149.235.192/id/TYEX3x4oWPE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/gcr/bd/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMTRdVvQ78WafgmeW1pnUBEHq5T1PRV6dWguSJ2uX1BrAiEA_1ypBNdKCbc7B1fL2Fj3wOsj8XboTyHVIF3sffzx8aE%3D/file/index.m3u8
 
 
 
-
+______________________________LIST END_____________________________________________________________________
 
 
 
