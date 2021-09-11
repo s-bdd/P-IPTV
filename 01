@@ -143,7 +143,7 @@ http://10.16.100.200:8082/hls/songet_bangla_local.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla", Zee Bangla HD
 http://10.16.100.204:8082/hls/z_bangla_local.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla", Star Jalsha HD
-http://10.16.100.204:8082/hls/star_Jalsha_local.m3u8
+http://103.81.104.118/hls/starjalsha.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Bangla", Sun Bangla
 https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Bangla", Enter 10 Bangla
@@ -219,6 +219,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1629988416/ei/4
 
 
 ______________________________LIST END_____________________________________________________________________
+http://10.16.100.204:8082/hls/star_Jalsha_local.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 http://tv.aliflailabd.com:8989/jalsha-movies/index.m3u8
 http://103.205.133.48/hls/chsj.m3u8
